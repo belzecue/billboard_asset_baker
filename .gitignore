@@ -164,8 +164,11 @@ crashlytics-build.properties
 
 ## BLENDER ##
 
-#blender session saves
+# blender session saves
 *.blend?
+
+# addon publishing
+**/*.zip
 
 
 ## SCRATCH  ##
